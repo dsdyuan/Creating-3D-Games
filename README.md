@@ -1,7 +1,7 @@
 # Creating-3D-Games
 
-# -Sanjay-Madhav---Game-Programming-in-C-Creating-3D-Games-
-# 引用 The source code for this book is available on GitHub, at https://github.com/gameprogcpp/code.
+# 原著Game Programming in C++ Creating 3D Games(Sanjay Madhav)
+# 参考代码：The source code for this book is available on GitHub, at https://github.com/gameprogcpp/code.
 
 一、目的
    通过学习Sanjay-Madhav所著《Game Programming in C++ Creating 3D Games》（Apr 2018, Addison-Wesley Professional）达到应用C++实现2D或3D的游戏项目。
