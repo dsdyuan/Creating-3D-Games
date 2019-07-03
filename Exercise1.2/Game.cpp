@@ -53,13 +53,13 @@ bool Game::Initialize() {
 	mPaddlePos.y = 768.0f / 2.0f;
 
 	Ball temp;
-	temp.mBallVel= {1024.0f/2.0f, 768.0f/2.0f};
-	temp.mBallPos= {200.0f, 235.0f};
+	temp.mBallVel= {200.0f, 235.0f};
+	temp.mBallPos= {1024.0f/2.0f, 768.0f/2.0f};
 	temp.stat=true;
 	VBall.push_back(temp);
 
-	temp.mBallVel= {1024.0f/2.0f, 768.0f/2.0f};
-	temp.mBallPos= {135.0f, 135.0f};
+	temp.mBallVel= {-135.0f, 135.0f};
+	temp.mBallPos= {1024.0f/2.0f, 768.0f/2.0f};
 	temp.stat=true;
 	VBall.push_back(temp);
 
